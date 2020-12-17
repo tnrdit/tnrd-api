@@ -1,2 +1,2 @@
 # tnrd-api
-A production version of the Public TNRD API
+A primary API layer for the Thompson-Nicola Regional District. 
